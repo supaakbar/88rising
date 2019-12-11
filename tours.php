@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-    <title>Hello, world!</title>
+    <title>88RISING</title>
   </head>
   <body>
   <div class="bgtours">
@@ -41,7 +41,8 @@
             <div class="row mt-sm-3" id="atas">
                 <div class="col-sm-12 text-center">
                     <h2 style="color: white;">UPCOMING TOURS 2020</h2>
-                    <hr class="bg-light">
+                    <br>
+                    <!-- <hr class="bg-light"> -->
                     <!-- <center>
                     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
